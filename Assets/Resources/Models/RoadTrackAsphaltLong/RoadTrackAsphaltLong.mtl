@@ -1,0 +1,31 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _1
+Ka 0.000000 0.000000 0.000000
+Kd 0.960784 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd RoadTrackAsphaltLong/_1.jpg
+
+newmtl BackColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.717647 0.776471
+Ks 0.330000 0.330000 0.330000
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.278431 0.278431
+Ks 0.330000 0.330000 0.330000
+map_Kd RoadTrackAsphaltLong/_.jpg
+
